@@ -35,7 +35,11 @@ $ expo start
 
 ## 💻 Projeto
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+Essa aplicação tem como seu principal objetivo é uma pequena aplicação de atividades a fazer.
+
+- Adicionar uma nova tarefa
+- Remover uma tarefa
+- Marcar e desmarcar uma tarefa como concluída
 
 ## 📝 License
 
