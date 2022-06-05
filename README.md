@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="ToDoList" src=".github/cover.svg" />
+    <img alt="ToDoList" src=".github/cover.png" />
 </h1>
 
 <br>
